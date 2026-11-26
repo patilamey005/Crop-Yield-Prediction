@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+
+# Local files
+predictions.db
+
+# Large raw dataset (download it yourself from Kaggle)
+dataset/crop_production.csv
